@@ -1,6 +1,5 @@
 {
   "name": "aldobot",
-  "version": "1.0.0",
   "description": "aldobot =======",
   "main": "index.coffee",
   "keywords": ["are", "you", "sure"],
